@@ -12,3 +12,4 @@ applications:
   - tracker-service-registry
   - tracker-sso
   - tracker-timesheets-database
+  - tracker-config-server
